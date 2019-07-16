@@ -98,24 +98,14 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 
 每个任务完成大概所需时间：每天平均花费时间2小时-4小时不等，根据个人学习接受能力强弱有所浮动
 
-
+**任务安排**
 - Task1：[环境搭建+python初体验+python基础讲解+ python数值基本知识(2天)](./基础知识/Python/学习任务/Task1.md)
 - Task2：[列表+元组+string字符串+字符串格式化问题(2天)](./基础知识/Python/学习任务/Task2.md)
 - Task3：[数组+集合+判断语句+三目表达式+循环语句(2天)](./基础知识/Python/学习任务/Task3.md)
 - Task4：[数组+集合+判断语句+三目表达式+循环语句(2天)](./基础知识/Python/学习任务/Task4.md)
 - Task5：[函数+file+os模块+ datetime模块(2天)](./基础知识/Python/学习任务/Task5.md)
 
-**任务安排**
-- Task1：
-- Task2：
-- Task3：
-- Task4：
-- Task5：
-- Task6：
-- Task7：
-- Task8：
-- Task9：
-- Task10：
+
 
 
 # 数据科学
@@ -134,6 +124,9 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 定位人群：小白或有一点基础但不熟练的人群；初入职场人群必学；难度系数简单
 
 每个任务完成大概所需时间：2-3h/每天
+
+**任务安排**
+
 - Task1：[基础界面+文件操作+基础单元格操作(3天)](./数据科学/Excel/学习内容/Task1.md)
 - Task2：[单元格引用+运算符+文本函数+逻辑函数+计算函数(2天)](./数据科学/Excel/学习内容/Task2.md)
 - Task3：[vlookup函数用法+match&index+双条件查找(2天)](./数据科学/Excel/学习内容/Task3.md)
@@ -141,17 +134,6 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 - Task5：[数据透视表+实现数据分段统计+变更值汇总依据+设置三种值百分比+计算字段&计算项(2天)](./数据科学/Excel/学习内容/Task5.md)
 
 
-**任务安排**
-- Task1：
-- Task2：
-- Task3：
-- Task4：
-- Task5：
-- Task6：
-- Task7：
-- Task8：
-- Task9：
-- Task10：
 
 ### 数据分析：https://github.com/datawhalechina/Data_Analysis
 
@@ -168,33 +150,35 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 每个任务完成大概所需时间：每天平均花费时间2小时-4小时不等，根据个人学习接受能力强弱有所浮动
 
 **任务安排**
-- Task1：
-- Task2：
-- Task3：
-- Task4：
-- Task5：
-- Task6：
-- Task7：
-- Task8：
-- Task9：
-- Task10：
+- Task0：[github+jupyter(1天)](./数据科学/Data_Analysis/学习内容/Task0.md)
+- Task1：[第4章numpy+作业1(2天)](./数据科学/Data_Analysis/学习内容/Task1.md)
+- Task2：[第5章pandas+第6章数据载入(3天)](./数据科学/Data_Analysis/学习内容/Task2.md)
+- Task3：[第7章数据清洗+第8章数据联合(3天)](./数据科学/Data_Analysis/学习内容/Task3.md)
+- Task4：[第10章数据聚合+第12章高阶pandas+作业2(3天)](./数据科学/Data_Analysis/学习内容/Task4.md)
+- Task5：[第9章matplotlib+作业3(2天)](./数据科学/Data_Analysis/学习内容/Task5.md)
+- Task6：[第11章时间序列(2天)](./数据科学/Data_Analysis/学习内容/Task6.md)
+- Task7：[大作业+总结(3天)](./数据科学/Data_Analysis/学习内容/Task7.md)
 
 ### MySQL：https://github.com/datawhalechina/MySql
 
 **课程简介**
+课程设计：杨皓博 孙涛 杨煜
 
+组队学习说明：一周内快速了解并掌握MySQL的主要内容。通过大量SQL语句的实战练习，可以在简历上写熟练掌握MySQL。(注意：本课程只关注SQL查询语句本身，对数据库的涉及较少。)
 
+任务路线： MySQL软件安装及数据库基础->查询语句->表操作->表联结->MySQL 实战->MySQL 实战-复杂项目
+
+组队学习周期：（8天）
+
+**定位人群：小白，难度系数小**
+
+每个任务完成大概所需时间：2-3h
+数据科学/MYSQL/MySQL学习内容/MySQL任务1 - 3天.md
 **任务安排**
-- Task1：
-- Task2：
-- Task3：
-- Task4：
-- Task5：
-- Task6：
-- Task7：
-- Task8：
-- Task9：
-- Task10：
+- Task1：[软件安装及数据库基础+MySQL 基础 （一）- 查询语句(3天)](./数据科学/MYSQL/学习内容/Task1.md)
+- Task2：[MySQL 基础 （二）- 表操作(3天)](./数据科学/MYSQL/学习内容/Task2.md)
+- Task3：[MySQL 实战(1天)](./数据科学/MYSQL/学习内容/Task3.md)
+- Task4：[MySQL 实战 - 复杂项目(1天)](./数据科学/MYSQL/学习内容/Task4.md)
 
 
 ### 爬虫：https://github.com/datawhalechina/Scrapy
