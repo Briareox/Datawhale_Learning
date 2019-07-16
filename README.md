@@ -3,7 +3,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 
 # 编程基础
 ## 课程列表
-### 编程：https://github.com/datawhalechina/Programming
+### 【编程】：https://github.com/datawhalechina/Programming
 
 **课程设计**：光城 、LeoLRH
 
@@ -18,6 +18,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 
 **难度系数**：高，小白慎入！！！
 
+**任务安排**
 - Task1：[数组+链表(2天)](./编程基础/Programming/学习任务/Task1.md)
 - Task2：[栈+队列+递归(3天)](./编程基础/Programming/学习任务/Task2.md)
 - Task3：
@@ -30,8 +31,8 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 - Task10：
 
 
-### leetCode：这个我来
-
+### 【leetCode】：这个我来
+**任务安排**
 - Task1：
 - Task2：
 - Task3：
@@ -47,8 +48,8 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 # 基础知识
 
 ## 课程列表
-### 统计学：https://github.com/datawhalechina/Statistical
-
+### 【统计学】：https://github.com/datawhalechina/Statistical
+**任务安排**
 - Task1：
 - Task2：
 - Task3：
@@ -62,7 +63,8 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 
 
 
-### Python基础：https://github.com/datawhalechina/Python
+### 【Python基础】：https://github.com/datawhalechina/Python
+**任务安排**
 - Task1：
 - Task2：
 - Task3：
@@ -77,8 +79,8 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 
 # 数据科学
 ## 课程列表
-### Excel入门：https://github.com/datawhalechina/Excel
-
+### 【Excel入门】：https://github.com/datawhalechina/Excel
+**任务安排**
 - Task1：
 - Task2：
 - Task3：
@@ -91,7 +93,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 - Task10：
 
 ### 数据分析：https://github.com/datawhalechina/Data_Analysis
-
+**任务安排**
 - Task1：
 - Task2：
 - Task3：
@@ -104,7 +106,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 - Task10：
 
 ### MySQL：https://github.com/datawhalechina/MySql
-
+**任务安排**
 - Task1：
 - Task2：
 - Task3：
@@ -118,7 +120,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 
 
 ### 爬虫：https://github.com/datawhalechina/Scrapy
-
+**任务安排**
 - Task1：
 - Task2：
 - Task3：
@@ -133,7 +135,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 # 机器学习
 ## 课程列表
 ### 初级算法梳理：https://github.com/datawhalechina/Primary-algorithm-combing
-
+**任务安排**
 - Task1：
 - Task2：
 - Task3：
@@ -147,7 +149,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 
 
 ### 高级算法梳理：https://github.com/datawhalechina/Advanced-algorithm-combing
-
+**任务安排**
 - Task1：
 - Task2：
 - Task3：
@@ -160,7 +162,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 - Task10：
 
 ### 李宏毅机器学习：
-
+**任务安排**
 - Task1：
 - Task2：
 - Task3：
@@ -174,7 +176,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 
 
 ### 西瓜书：https://github.com/datawhalechina/MachineLearning
-
+**任务安排**
 - Task1：
 - Task2：
 - Task3：
@@ -190,7 +192,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 # 深度学习
 ## 课程列表
 ### Pytorch基础：https://github.com/datawhalechina/Pytorch
-
+**任务安排**
 - Task1：
 - Task2：
 - Task3：
@@ -206,7 +208,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 # 理论应用
 ## 课程列表
 ### 数据挖据：https://github.com/datawhalechina/DataMining
-
+**任务安排**
 - Task1：
 - Task2：
 - Task3：
@@ -220,7 +222,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 
 
 ### 自然语言处理(理论+实践)：https://github.com/datawhalechina/NLP
-
+**任务安排**
 - Task1：
 - Task2：
 - Task3：
