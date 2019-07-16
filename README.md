@@ -5,7 +5,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 
 # 编程基础
 ## 课程列表
-### 【编程】：https://github.com/datawhalechina/Programming
+### 【编程】
 **课程简介**
 
 课程设计：光城 、LeoLRH
@@ -32,7 +32,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 
 
 
-### 【leetCode】：这个我来
+### 【leetCode】
 **任务安排**
 - Task1：
 - Task2：
@@ -49,7 +49,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 # 基础知识
 
 ## 课程列表
-### 【统计学】：https://github.com/datawhalechina/Statistical
+### 【统计学】
 
 **课程简介**
 
@@ -84,7 +84,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 
 
 
-### 【Python基础】：https://github.com/datawhalechina/Python
+### 【Python基础】
 **课程简介**
 
 
@@ -112,7 +112,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 
 # 数据科学
 ## 课程列表
-### 【Excel入门】：https://github.com/datawhalechina/Excel
+### 【Excel入门】
 **课程简介**
 
 课程设计：杨煜，李严
@@ -137,7 +137,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 
 
 
-### 数据分析：https://github.com/datawhalechina/Data_Analysis
+### 【数据分析】
 
 **课程简介**
 
@@ -161,7 +161,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 - Task6：[第11章时间序列(2天)](数据科学/Data_Analysis/学习任务/Task6.md)
 - Task7：[大作业+总结(3天)](数据科学/Data_Analysis/学习任务/Task7.md)
 
-### MySQL：https://github.com/datawhalechina/MySql
+### 【MySQL】
 
 **课程简介**
 课程设计：杨皓博 孙涛 杨煜
@@ -183,7 +183,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 - Task4：[MySQL 实战 - 复杂项目(1天)](数据科学/MYSQL/学习任务/Task4.md)
 
 
-### 爬虫：https://github.com/datawhalechina/Scrapy
+### 【爬虫】
 
 **课程简介**
 
@@ -206,7 +206,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 - Task4：[实战大项目(2天)](./数据科学/Scrapy/学习任务/Task4.md)
 # 机器学习
 ## 课程列表
-### 初级算法梳理：https://github.com/datawhalechina/Primary-algorithm-combing
+### 【初级算法梳理】
 
 **课程简介**
 
@@ -231,7 +231,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 
 
 
-### 高级算法梳理：https://github.com/datawhalechina/Advanced-algorithm-combing
+### 【高级算法梳理】 
 
 **课程简介**
 
@@ -255,7 +255,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 - Task3：[XGB算法梳理(3天)](./机器学习/Advanced-algorithm-combing/学习任务/Task3.md)
 - Task4：[LightGBM算法梳理(3天)](./机器学习/Advanced-algorithm-combing/学习任务/Task4.md)
 
-### 李宏毅机器学习：
+### 【李宏毅机器学习】：
 
 **课程简介**
 
@@ -273,7 +273,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 - Task10：
 
 
-### 西瓜书：https://github.com/datawhalechina/MachineLearning
+### 【西瓜书】
 
 **课程简介**
 
@@ -293,7 +293,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 
 # 深度学习
 ## 课程列表
-### Pytorch基础：https://github.com/datawhalechina/Pytorch
+### 【Pytorch基础】
 
 **课程简介**
 课程设计：许辉 李奇锋
@@ -321,7 +321,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 
 # 理论应用
 ## 课程列表
-### 数据挖据：https://github.com/datawhalechina/DataMining
+### 【数据挖据】 
 
 **课程简介**
 
@@ -346,7 +346,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 - Task6：[模型融合(2天)](./理论应用/Data-mining/学习任务/Task6.md)
 
 
-### 自然语言处理(理论+实践)：https://github.com/datawhalechina/NLP
+### 【自然语言处理(理论+实践)】
 
 **课程简介**
 
@@ -373,7 +373,7 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 - Task7：[卷积神经网络(2天)](./理论应用/NLP-theory-practice-/学习任务/Task7.md)
 - Task8：[循环和递归神经网络(2天)](./理论应用/NLP-theory-practice-/学习任务/Task8.md)
 - Task9：[Attention原理(2天)](./理论应用/NLP-theory-practice-/学习任务/Task9.md)
-- Task10：[BERT](./理论应用/NLP-theory-practice-/学习任务/Task10.md)
+- Task10：[BERT(3天)](./理论应用/NLP-theory-practice-/学习任务/Task10.md)
 
 
 
