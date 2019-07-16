@@ -129,11 +129,11 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 
 **任务安排**
 
-- Task1：[基础界面+文件操作+基础单元格操作(3天)](./数据科学/Excel/学习内容/Task1.md)
-- Task2：[单元格引用+运算符+文本函数+逻辑函数+计算函数(2天)](./数据科学/Excel/学习内容/Task2.md)
-- Task3：[vlookup函数用法+match&index+双条件查找(2天)](./数据科学/Excel/学习内容/Task3.md)
-- Task4：[图表类型+图表类型选择指南+图表的构成要素(3天)](./数据科学/Excel/学习内容/Task4.md)
-- Task5：[数据透视表+实现数据分段统计+变更值汇总依据+设置三种值百分比+计算字段&计算项(2天)](./数据科学/Excel/学习内容/Task5.md)
+- Task1：[基础界面+文件操作+基础单元格操作(3天)](数据科学/Excel/学习任务/Task1.md)
+- Task2：[单元格引用+运算符+文本函数+逻辑函数+计算函数(2天)](数据科学/Excel/学习任务/Task2.md)
+- Task3：[vlookup函数用法+match&index+双条件查找(2天)](数据科学/Excel/学习任务/Task3.md)
+- Task4：[图表类型+图表类型选择指南+图表的构成要素(3天)](数据科学/Excel/学习任务/Task4.md)
+- Task5：[数据透视表+实现数据分段统计+变更值汇总依据+设置三种值百分比+计算字段&计算项(2天)](数据科学/Excel/学习任务/Task5.md)
 
 
 
@@ -152,14 +152,14 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 每个任务完成大概所需时间：每天平均花费时间2小时-4小时不等，根据个人学习接受能力强弱有所浮动
 
 **任务安排**
-- Task0：[github+jupyter(1天)](./数据科学/Data_Analysis/学习内容/Task0.md)
-- Task1：[第4章numpy+作业1(2天)](./数据科学/Data_Analysis/学习内容/Task1.md)
-- Task2：[第5章pandas+第6章数据载入(3天)](./数据科学/Data_Analysis/学习内容/Task2.md)
-- Task3：[第7章数据清洗+第8章数据联合(3天)](./数据科学/Data_Analysis/学习内容/Task3.md)
-- Task4：[第10章数据聚合+第12章高阶pandas+作业2(3天)](./数据科学/Data_Analysis/学习内容/Task4.md)
-- Task5：[第9章matplotlib+作业3(2天)](./数据科学/Data_Analysis/学习内容/Task5.md)
-- Task6：[第11章时间序列(2天)](./数据科学/Data_Analysis/学习内容/Task6.md)
-- Task7：[大作业+总结(3天)](./数据科学/Data_Analysis/学习内容/Task7.md)
+- Task0：[github+jupyter(1天)](数据科学/Data_Analysis/学习任务/Task0.md)
+- Task1：[第4章numpy+作业1(2天)](数据科学/Data_Analysis/学习任务/Task1.md)
+- Task2：[第5章pandas+第6章数据载入(3天)](数据科学/Data_Analysis/学习任务/Task2.md)
+- Task3：[第7章数据清洗+第8章数据联合(3天)](数据科学/Data_Analysis/学习任务/Task3.md)
+- Task4：[第10章数据聚合+第12章高阶pandas+作业2(3天)](数据科学/Data_Analysis/学习任务/Task4.md)
+- Task5：[第9章matplotlib+作业3(2天)](数据科学/Data_Analysis/学习任务/Task5.md)
+- Task6：[第11章时间序列(2天)](数据科学/Data_Analysis/学习任务/Task6.md)
+- Task7：[大作业+总结(3天)](数据科学/Data_Analysis/学习任务/Task7.md)
 
 ### MySQL：https://github.com/datawhalechina/MySql
 
@@ -177,65 +177,83 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 每个任务完成大概所需时间：2-3h
 数据科学/MYSQL/MySQL学习内容/MySQL任务1 - 3天.md
 **任务安排**
-- Task1：[软件安装及数据库基础+MySQL 基础 （一）- 查询语句(3天)](./数据科学/MYSQL/学习内容/Task1.md)
-- Task2：[MySQL 基础 （二）- 表操作(3天)](./数据科学/MYSQL/学习内容/Task2.md)
-- Task3：[MySQL 实战(1天)](./数据科学/MYSQL/学习内容/Task3.md)
-- Task4：[MySQL 实战 - 复杂项目(1天)](./数据科学/MYSQL/学习内容/Task4.md)
+- Task1：[软件安装及数据库基础+MySQL 基础 （一）- 查询语句(3天)](数据科学/MYSQL/学习任务/Task1.md)
+- Task2：[MySQL 基础 （二）- 表操作(3天)](数据科学/MYSQL/学习任务/Task2.md)
+- Task3：[MySQL 实战(1天)](数据科学/MYSQL/学习任务/Task3.md)
+- Task4：[MySQL 实战 - 复杂项目(1天)](数据科学/MYSQL/学习任务/Task4.md)
 
 
 ### 爬虫：https://github.com/datawhalechina/Scrapy
 
 **课程简介**
 
+课程设计：光城、李方
+
+组队学习说明：从零基础到能独立完成一个简易的爬虫项目
+
+任务路线：请求→re→beautifulsoup→lxml→selenium→IP问题→实战小项目
+
+组队学习周期：7天
+
+定位人群：有Python基础。难度系数中
+
+每个任务完成大概所需时间：2-3h/天
 
 **任务安排**
-- Task1：
-- Task2：
-- Task3：
-- Task4：
-- Task5：
-- Task6：
-- Task7：
-- Task8：
-- Task9：
-- Task10：
-
+- Task1：[get与post请求+正则表达式(2天)](./数据科学/Scrapy/学习任务/Task1.md)
+- Task2：[beautifulsoup+xpath(2天)](./数据科学/Scrapy/学习任务/Task2.md)
+- Task3：[selenium+IP(2天)](./数据科学/Scrapy/学习任务/Task3.md)
+- Task4：[实战大项目(2天)](./数据科学/Scrapy/学习任务/Task4.md)
 # 机器学习
 ## 课程列表
 ### 初级算法梳理：https://github.com/datawhalechina/Primary-algorithm-combing
 
 **课程简介**
 
+课程设计：苏静、康兵兵
+
+组队学习说明：通过查阅书籍或参考文献、学习视频等，对传统机器学习算法进行梳理
+
+任务路线：线性回归--->逻辑回归--->决策树
+
+组队学习周期：7天
+
+定位人群：有概率论、矩阵运算、求导、泰勒展开等基础数学知识
+
+难度系数：低
+
+每个任务完成大概所需时间：2-3h
 
 **任务安排**
-- Task1：
-- Task2：
-- Task3：
-- Task4：
-- Task5：
-- Task6：
-- Task7：
-- Task8：
-- Task9：
-- Task10：
+- Task1：[线性回归算法梳理(2天)](./机器学习/Primary-algorithm-combing/学习任务/Task1.md)
+- Task2：[逻辑回归算法梳理(2天)](./机器学习/Primary-algorithm-combing/学习任务/Task2.md)
+- Task3：[决策树算法梳理(2天)](./机器学习/Primary-algorithm-combing/学习任务/Task3.md)
+
 
 
 ### 高级算法梳理：https://github.com/datawhalechina/Advanced-algorithm-combing
 
 **课程简介**
 
+课程设计：黑桃，刘广月，于鸿飞
+
+组队学习说明：通过查阅相关文献，对机器学习算法进行梳理
+
+任务路线：RF--->GBDT--->XGB--->LightGBM
+
+组队学习周期：10天
+
+定位人群：有概率论、矩阵运算、求导、泰勒展开等基础数学知识；
+
+难度系数：中
+
+每个任务完成大概所需时间：2-3h
 
 **任务安排**
-- Task1：
-- Task2：
-- Task3：
-- Task4：
-- Task5：
-- Task6：
-- Task7：
-- Task8：
-- Task9：
-- Task10：
+- Task1：[随机森林算法梳理(2天)](./机器学习/Advanced-algorithm-combing/学习任务/Task1.md)
+- Task2：[GBDT算法梳理(2天)](./机器学习/Advanced-algorithm-combing/学习任务/Task2.md)
+- Task3：[XGB算法梳理(3天)](./机器学习/Advanced-algorithm-combing/学习任务/Task3.md)
+- Task4：[LightGBM算法梳理(3天)](./机器学习/Advanced-algorithm-combing/学习任务/Task4.md)
 
 ### 李宏毅机器学习：
 
@@ -278,20 +296,28 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 ### Pytorch基础：https://github.com/datawhalechina/Pytorch
 
 **课程简介**
+课程设计：许辉 李奇锋
 
+组队学习说明：通过学习pytorch的基本操作，最终完成手写数字的识别
+
+任务路线：安装pytorch->设立图并计算->实现逻辑回归->构建多层神经网络->PyTorch实现L1，L2正则化以及Dropout->书写优化器代码->用PyTorch完成手写数字识别
+
+学习周期：14天
+
+定位人群：熟悉python的基础用法
+
+任务完成所需时间：2-3h/天
+
+难度系数：中
 
 **任务安排**
-- Task1：
-- Task2：
-- Task3：
-- Task4：
-- Task5：
-- Task6：
-- Task7：
-- Task8：
-- Task9：
-- Task10：
-
+- Task1：[PyTorch的基本概念(2天)](深度学习/Pytorch/学习任务/Task1.md)
+- Task2：[设立计算图并自动计算(2天)](深度学习/Pytorch/学习任务/Task2.md)
+- Task3：[PyTorch实现Logistic regression(2天)](深度学习/Pytorch/学习任务/Task3.md)
+- Task4：[PyTorch实现多层网络(2天)](深度学习/Pytorch/学习任务/Task4.md)
+- Task5：[PyTorch实现L1，L2正则化以及Dropout(2天)](深度学习/Pytorch/学习任务/Task5.md)
+- Task6：[PyTorch理解更多神经网络优化方法(2天)](深度学习/Pytorch/学习任务/Task6.md)
+- Task7：[手写数字识别(2天)](深度学习/Pytorch/学习任务/Task7.md)
 
 # 理论应用
 ## 课程列表
@@ -299,35 +325,55 @@ Datawhale_Learning涵盖了AI领域从理论知识到动手实践的学习内容
 
 **课程简介**
 
+课程设计：范晶晶、李碧涵、
+
+组队学习说明：应用机器学习算法，完整地走完一个数据挖掘项目流程
+
+任务路线：数据分析→特征工程→模型构建→模型评估→模型调优→模型融合
+
+组队学习周期：12天
+
+定位人群：有Python基础，sklearn基础。难度系数中
+
+每个任务完成大概所需时间：2-3h/天
 
 **任务安排**
-- Task1：
-- Task2：
-- Task3：
-- Task4：
-- Task5：
-- Task6：
-- Task7：
-- Task8：
-- Task9：
-- Task10：
+- Task1：[数据分析(2天)](./理论应用/Data-mining/学习任务/Task1.md)
+- Task2：[特征工程(2天)](./理论应用/Data-mining/学习任务/Task2.md)
+- Task3：[模型构建 (2天)](./理论应用/Data-mining/学习任务/Task3.md)
+- Task4：[模型评估(2天)](./理论应用/Data-mining/学习任务/Task4.md)
+- Task5：[模型调优(2天)](./理论应用/Data-mining/学习任务/Task5.md)
+- Task6：[模型融合(2天)](./理论应用/Data-mining/学习任务/Task6.md)
 
 
 ### 自然语言处理(理论+实践)：https://github.com/datawhalechina/NLP
 
 **课程简介**
 
+课程设计：jepson
+
+组队学习说明：学习自然语言处理理论，并且通过对某些数据集的文本分类任务不断优化来进行实践。
+
+任务路线：特征提取—>特征选择—>文本表示—>传统机器学习算法跑模型—>LDA生成新特征—>深度学习算法跑模型
+
+定位人群：有Python基础，基本框架的基础（例如TensorFlow、Keras和pyTorch等）！难度系数高
+
+组队学习周期：18天
+
+每个任务完成大概所需时间：3-4h
 
 **任务安排**
-- Task1：
-- Task2：
-- Task3：
-- Task4：
-- Task5：
-- Task6：
-- Task7：
-- Task8：
-- Task9：
-- Task10：
+- 预备任务：[tensorflow安装+tensrflow基础+NLP](./理论应用/NLP-theory-practice-/学习任务/预备任务.md)
+- Task1：[数据集探索(2天)](./理论应用/NLP-theory-practice-/学习任务/Task1.md)
+- Task2：[特征提取(2天)](./理论应用/NLP-theory-practice-/学习任务/Task2.md)
+- Task3：[特征选择 (2天)](./理论应用/NLP-theory-practice-/学习任务/Task3.md)
+- Task4：[模型 (2天)](./理论应用/NLP-theory-practice-/学习任务/Task4.md)
+- Task5：[文本表示(2天)](./理论应用/NLP-theory-practice-/学习任务/Task5.md)
+- Task6：[神经网络基础(2天)](./理论应用/NLP-theory-practice-/学习任务/Task6.md)
+- Task7：[卷积神经网络(2天)](./理论应用/NLP-theory-practice-/学习任务/Task7.md)
+- Task8：[循环和递归神经网络(2天)](./理论应用/NLP-theory-practice-/学习任务/Task8.md)
+- Task9：[Attention原理(2天)](./理论应用/NLP-theory-practice-/学习任务/Task9.md)
+- Task10：[BERT](./理论应用/NLP-theory-practice-/学习任务/Task10.md)
+
 
 
